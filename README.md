@@ -9,3 +9,5 @@ Nos interesa la tecnología porque nos permite aprender nuevas habilidades, reso
 - Programación
 - Bases de Datos
 - Desarrollo Web con Django
+
+Escribir presentación
